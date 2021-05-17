@@ -5,7 +5,7 @@
 
 📫 How to reach me: email me, or tweet me at [Twitter/mohrefaldo](https://twitter.com/mohrefaldo)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mohrefaldo?label=Follow&style=social)](https://twitter.com/mohrefaldo)
+
 
 
 
