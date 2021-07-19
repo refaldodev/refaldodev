@@ -36,3 +36,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 <br>
 <br>
+
+<div align='left'>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=refaldodev&theme=radical&count_private=true" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=refaldodev&show_icons=true&theme=dark" /><br> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaldodev&layout=compact&theme=dark" />
+</div>
