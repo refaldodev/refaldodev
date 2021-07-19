@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 <div align='left'>
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=refaldodev&theme=radical&count_private=true" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=refaldodev&show_icons=true&theme=dark" /><br> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaldodev&layout=compact&theme=dark" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaldodev&layout=compact&theme=dark" /> -->
 </div>
