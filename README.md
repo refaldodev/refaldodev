@@ -1,8 +1,6 @@
 ### Hi there, I'm Refaldo 👋
 👦 About Me :  Web Developer, UX Design, UI Design, Coder and Traveller
 
-⚡ Fun fact: I don't want to be the next Mark Zuckerberg, I only want to be Mohammad Refaldo.
-
 📫 How to reach me: email me, or tweet me at [Twitter/mohrefaldo](https://twitter.com/mohrefaldo)
 
 
